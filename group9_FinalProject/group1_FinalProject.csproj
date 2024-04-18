@@ -69,7 +69,7 @@
   <ItemGroup>
     <Content Include="index.aspx" />
     <Content Include="LeetCodeProblemXX.aspx" />
-    <Content Include="LeetCodeProblemXXX.aspx" />
+    <Content Include="LeetCodeProblem1678.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -87,12 +87,12 @@
     <Compile Include="LeetCodeProblemXX.aspx.designer.cs">
       <DependentUpon>LeetCodeProblemXX.aspx</DependentUpon>
     </Compile>
-    <Compile Include="LeetCodeProblemXXX.aspx.cs">
-      <DependentUpon>LeetCodeProblemXXX.aspx</DependentUpon>
+    <Compile Include="LeetCodeProblem1678.aspx.cs">
+      <DependentUpon>LeetCodeProblem1678.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="LeetCodeProblemXXX.aspx.designer.cs">
-      <DependentUpon>LeetCodeProblemXXX.aspx</DependentUpon>
+    <Compile Include="LeetCodeProblem1678.aspx.designer.cs">
+      <DependentUpon>LeetCodeProblem1678.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
